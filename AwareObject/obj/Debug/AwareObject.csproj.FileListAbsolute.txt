@@ -1,0 +1,42 @@
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\bin\Debug\AwareObject.exe.config
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\bin\Debug\AwareObject.exe
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\bin\Debug\AwareObject.pdb
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csprojResolveAssemblyReference.cache
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.Properties.Resources.resources
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.GenerateResource.Cache
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.CoreCompileInputs.cache
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.exe
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.pdb
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\Interop.ADODB.dll
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.ResolveComReference.cache
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.Form1.resources
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\bin\Debug\AwareSQLDB.mdf
+C:\ITD\Term 3\C#\assignment\assignment7\AwareObject\AwareObject\bin\Debug\AwareSQLDB_log.ldf
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\bin\Debug\AwareSQLDB.mdf
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\bin\Debug\AwareSQLDB_log.ldf
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\bin\Debug\AwareObject.exe.config
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\bin\Debug\AwareObject.exe
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\bin\Debug\AwareObject.pdb
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csprojResolveAssemblyReference.cache
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\Interop.ADODB.dll
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.ResolveComReference.cache
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.Form1.resources
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.Properties.Resources.resources
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.GenerateResource.Cache
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.CoreCompileInputs.cache
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.exe
+C:\ITD\Term 3\C#\assignment\assignment7\New\assignment7\AwareObject\AwareObject\obj\Debug\AwareObject.pdb
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\bin\Debug\AwareSQLDB.mdf
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\bin\Debug\AwareSQLDB_log.ldf
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\bin\Debug\AwareObject.exe.config
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\bin\Debug\AwareObject.exe
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\bin\Debug\AwareObject.pdb
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.csprojResolveAssemblyReference.cache
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\Interop.ADODB.dll
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.ResolveComReference.cache
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.Form1.resources
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.Properties.Resources.resources
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.GenerateResource.Cache
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.csproj.CoreCompileInputs.cache
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.exe
+C:\ITD\Term 3\C#\assignment\assignment7(last myself)\AwareObject\AwareObject\obj\Debug\AwareObject.pdb
